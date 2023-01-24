@@ -81,8 +81,6 @@ private slots:
 
     void on_doubleSpinBox_Tal_valueChanged(double arg1);
 
-
-
 private:
     Ui::Widget *ui;
 
